@@ -1,0 +1,35 @@
+====================
+Dropped by 
+====================
+Reason for Dox:
+====================
+*Personal Information:
+Full Name:
+Phone Number:
+DOB: 
+Email:
+Picture:
+Alias:
+====================
+*Location Information
+Address:
+Area Code:
+Zip:
+City:
+State:
+Country: 
+Continent: 
+====================
+*IP Information:
+IP Address:
+ISP:
+Hostname:
+VPN:
+====================
+*Social Media Accounts:
+Twitter:
+Facebook:
+Steam:
+Instagram:
+====================
+Dropped by 
